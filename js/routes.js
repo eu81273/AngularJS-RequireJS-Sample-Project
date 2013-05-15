@@ -24,7 +24,7 @@ define([
 				filters: []
 			}));
 			
-			//nggrid 경로 설정
+			//grid 경로 설정
 			$routeProvider.when('/grid', routeConfig.config('../partials/grid.html', 'controllers/grid'));
 			
 			//admin 경로 설정
