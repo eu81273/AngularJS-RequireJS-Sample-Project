@@ -1,9 +1,10 @@
 AngularJS + RequireJS Sample Project
 ====================================
 
-Routes 설정에서 RequireJS를 통해 Template, Controller, Directive, Service, Filter 등을 동적으로 불러옵니다.
-동적으로 로드된 요소들이 Angular의 ngView에 표시되도록 구현했습니다.
-모듈화와 대규모 웹 어플리케이션 개발을 위한 과정에서 초기 컨셉을 위해 구현한 결과물입니다.
+In this example, I show how to get dynamically Template, Controller, Directive, Service, and Filter, by using RequireJS and AngularJS. Elements dynamically loaded, are rendered in ngView. 
+
+I hope that you gets an insight about developing a basic stage of modularized large-scale Web application. 
+
 
 ## Libraries
 
